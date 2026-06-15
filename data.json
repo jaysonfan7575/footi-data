@@ -1,6 +1,6 @@
 {
-  "version": "2026.6.14",
-  "updatedAt": "2026-06-15T10:02:39.994731+00:00Z",
+  "version": "2026.6.15",
+  "updatedAt": "2026-06-15T10:04:51.892325+00:00Z",
   "source": "Odds+Elo混合模型 · 49K历史比赛 · The Odds API实时赔率",
   "disclaimer": "本地占位数据 · 比赛结果来源公开报道 · 预测为模型输出仅供参考 · 不构成投注建议",
   "countries": [
@@ -672,70 +672,165 @@
     {
       "home": "卡塔尔",
       "away": "瑞士",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 1,
+      "aScore": 1,
       "date": "2026-06-13",
-      "status": "upcoming",
+      "status": "finished",
       "group": "B",
       "venue": "李维斯体育场",
       "city": "旧金山湾区",
-      "events": []
+      "events": [
+        {
+          "min": 17,
+          "type": "goal",
+          "player": "Embolo",
+          "team": "away"
+        },
+        {
+          "min": 90,
+          "type": "goal",
+          "player": "Khoukhi",
+          "team": "home"
+        }
+      ]
     },
     {
       "home": "巴西",
       "away": "摩洛哥",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 1,
+      "aScore": 1,
       "date": "2026-06-13",
-      "status": "upcoming",
+      "status": "finished",
       "group": "C",
       "venue": "大都会人寿体育场",
       "city": "纽约/新泽西",
-      "events": []
+      "events": [
+        {
+          "min": 21,
+          "type": "goal",
+          "player": "Saibari",
+          "team": "away"
+        },
+        {
+          "min": 32,
+          "type": "goal",
+          "player": "Vinícius Jr.",
+          "team": "home"
+        }
+      ]
     },
     {
       "home": "海地",
       "away": "苏格兰",
       "hScore": 0,
-      "aScore": 0,
+      "aScore": 1,
       "date": "2026-06-13",
-      "status": "upcoming",
+      "status": "finished",
       "group": "C",
       "venue": "吉列体育场",
       "city": "波士顿",
-      "events": []
+      "events": [
+        {
+          "min": 55,
+          "type": "goal",
+          "player": "McGinn",
+          "team": "away"
+        }
+      ]
     },
     {
       "home": "澳大利亚",
       "away": "土耳其",
-      "hScore": 0,
+      "hScore": 2,
       "aScore": 0,
       "date": "2026-06-13",
-      "status": "upcoming",
+      "status": "finished",
       "group": "D",
       "venue": "BC广场",
       "city": "温哥华",
-      "events": []
+      "events": [
+        {
+          "min": 38,
+          "type": "goal",
+          "player": "Souttar",
+          "team": "home"
+        },
+        {
+          "min": 72,
+          "type": "goal",
+          "player": "Irankunda",
+          "team": "home"
+        }
+      ]
     },
     {
       "home": "德国",
       "away": "库拉索",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 7,
+      "aScore": 1,
       "date": "2026-06-14",
-      "status": "upcoming",
+      "status": "finished",
       "group": "E",
       "venue": "NRG体育场",
       "city": "休斯顿",
-      "events": []
+      "events": [
+        {
+          "min": 22,
+          "type": "goal",
+          "player": "Nmecha",
+          "team": "home"
+        },
+        {
+          "min": 35,
+          "type": "goal",
+          "player": "Comenencia",
+          "team": "away"
+        },
+        {
+          "min": 48,
+          "type": "goal",
+          "player": "Havertz",
+          "team": "home"
+        },
+        {
+          "min": 55,
+          "type": "goal",
+          "player": "Schlotterbeck",
+          "team": "home"
+        },
+        {
+          "min": 62,
+          "type": "goal",
+          "player": "Musiala",
+          "team": "home"
+        },
+        {
+          "min": 71,
+          "type": "goal",
+          "player": "Havertz",
+          "team": "home"
+        },
+        {
+          "min": 78,
+          "type": "goal",
+          "player": "Brown",
+          "team": "home"
+        },
+        {
+          "min": 85,
+          "type": "goal",
+          "player": "Undav",
+          "team": "home"
+        }
+      ]
     },
     {
       "home": "科特迪瓦",
       "away": "厄瓜多尔",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 1,
+      "aScore": 2,
       "date": "2026-06-14",
-      "status": "upcoming",
+      "status": "finished",
       "group": "E",
       "venue": "林肯金融球场",
       "city": "费城",
@@ -744,22 +839,47 @@
     {
       "home": "荷兰",
       "away": "日本",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 2,
+      "aScore": 2,
       "date": "2026-06-14",
-      "status": "upcoming",
+      "status": "finished",
       "group": "F",
       "venue": "AT&T体育场",
       "city": "达拉斯",
-      "events": []
+      "events": [
+        {
+          "min": 15,
+          "type": "goal",
+          "player": "Van Dijk",
+          "team": "home"
+        },
+        {
+          "min": 38,
+          "type": "goal",
+          "player": "Nakamura",
+          "team": "away"
+        },
+        {
+          "min": 55,
+          "type": "goal",
+          "player": "Summerville",
+          "team": "home"
+        },
+        {
+          "min": 88,
+          "type": "goal",
+          "player": "Kamada",
+          "team": "away"
+        }
+      ]
     },
     {
       "home": "瑞典",
       "away": "突尼斯",
-      "hScore": 0,
-      "aScore": 0,
+      "hScore": 3,
+      "aScore": 1,
       "date": "2026-06-14",
-      "status": "upcoming",
+      "status": "finished",
       "group": "F",
       "venue": "BBVA体育场",
       "city": "蒙特雷",
